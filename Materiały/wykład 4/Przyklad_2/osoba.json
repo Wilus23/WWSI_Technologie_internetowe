@@ -1,0 +1,15 @@
+{   "osoba":{
+      "student":[ {
+            "nr":6666,
+            "imie":"Jan",
+            "nazwisko":"Kowalski",
+            "telefon":null
+         },
+         {
+            "nr":6667,
+            "imie":"Anna",
+            "nazwisko":"Lechowicz",
+            "telefon":"745-565-444"
+         } ]
+   }
+}
